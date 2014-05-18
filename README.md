@@ -2,7 +2,7 @@
 
 1.1 INSTALLATION 
 
-sudo apt-get install python2, python-pygame -y ---> cette commande permet d'installer d'une part python version 2 + module pygame 
+sudo apt-get install python2.7, python-pygame -y ---> cette commande permet d'installer d'une part python version 2.7 + module pygame 
 
 1.2 LANCEMENT JEU PYZEN : 
 
@@ -16,13 +16,13 @@ PyZen :
 ----
 
 1. Présentation : 
-*****************
+================
 
 Au sein de ce petit jeu, vous incarnez Zio un jeune moine bouddhiste cherchant à retrouver la voie du juste milieu et de s'adonner à la sagesse du Ying et du Yang. 
 Ainsi, parcourez l'ensemble du terrain de jeu et trouvez votre chemin en espérant ne pas vous confrontez à une voie obstruée.
 
 2. Architecture :
-****************
+================
 
 PyZen a été conçu d'une manière à ce qu'à l'avenir, l'on puisse y apporter des modifications en vue d'améliorer le jeu, de lui rajouter des modules... Ainsi l'arborescence se présente comme suit :
 
